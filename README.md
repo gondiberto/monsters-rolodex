@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This version was developed by Gondiberto during the course "Complete React Developer in 2023 (w/ Redux, Hooks, GraphQL)
+This version was developed by me (/gondiberto) during the course "Complete React Developer in 2023 (w/ Redux, Hooks, GraphQL)
 " -> https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
 
 ## Available Scripts
